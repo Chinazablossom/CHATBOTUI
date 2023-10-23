@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="searchTheme" parent="Theme.Material3.DayNight.NoActionBar" >
+        <item name="colorPrimary">#000000</item>
+    </style>
+
+    <style name="txt" parent="Theme.Material3.DayNight.NoActionBar" >
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+    <style name="appBarStyle" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Base application theme. -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FE9900</item>
+        <item name="colorPrimaryVariant">#DF68E4</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#FE7700</item>
+        <item name="colorSecondaryVariant">#0154FA</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+    </style>
+
+
+
+</resources>

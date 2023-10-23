@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/chats"
+        android:icon="@drawable/chat_circle"
+        android:title="Chats"
+        android:enabled="true"
+        app:showAsAction="always"
+        />
+
+
+    <item
+        android:id="@+id/videocall"
+        android:icon="@drawable/round_videocam_24"
+        android:title="Video Calls"
+        app:showAsAction="always"
+        />
+
+
+    <item
+        android:id="@+id/contacts"
+        android:icon="@drawable/users"
+        android:title="Contacts"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/saved"
+        android:icon="@drawable/round_library_books_24"
+        android:title="Saved"
+        app:showAsAction="always"
+        />
+
+
+</menu>
